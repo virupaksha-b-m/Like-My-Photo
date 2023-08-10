@@ -8,7 +8,6 @@ React,
 https://codesandbox.io/s/like-my-photo-forked-9ypx7r?file=/src/App.js
 
 # Final result
-![Uploading image.png…]()
+![image](https://github.com/virupaksha-b-m/Like-My-Photo/assets/91652877/48706b40-8026-43c1-beea-416908710b45)
 
-![Uploading image.png…]()
-
+![image](https://github.com/virupaksha-b-m/Like-My-Photo/assets/91652877/efe98797-3241-4083-97af-551e6b7c2775)
