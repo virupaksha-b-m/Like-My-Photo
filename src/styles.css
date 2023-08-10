@@ -1,0 +1,40 @@
+.App {
+  display: block;
+  justify-content: center;
+  text-align: center;
+}
+
+.App1 {
+  display: inline-block;
+  font-family: sans-serif;
+  text-align: center;
+}
+.dogsmile {
+  display: inline-flex;
+}
+.smile {
+  font-size: 40px;
+  margin-right: 40px;
+}
+.post {
+  width: 300px;
+  background-color: aquamarine;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 10px;
+}
+img {
+  width: 300px;
+  height: 300px;
+}
+.message {
+  margin-right: 100px;
+  font-size: 30px;
+}
+.heart {
+  font-size: 30px;
+}
+button {
+  background-color: aquamarine;
+  border: none;
+}
